@@ -70,7 +70,7 @@ global.ppulsa2 = "-"; // kalau ada kartu lain isi aja
 global.psaweria = "-";
 
 /*============== NOMOR ==============*/
-global.nomorbot = "6282172622047";
+global.nomorbot = "6287843551083";
 global.nomorown = "6283897011555";
 global.ageowner = "2011-01-13";
 global.namebot = "「 Nahida-Md 」";
@@ -148,14 +148,14 @@ global.APIKeys = {
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = "「Nahida-Md」"; //Main Watermark
-global.wm2 = "¸„٭⊹•~⍣°”ˆ˜¨ Nahida-Md¨˜ˆ”°⍣~•⊹٭„¸";
-global.wm3 = "⫹⫺ Nahida-Bot";
+global.wm = "「PenginTidur-Md」"; //Main Watermark
+global.wm2 = "¸„٭⊹•~⍣°”ˆ˜¨ PenginTidur-Md¨˜ˆ”°⍣~•⊹٭„¸";
+global.wm3 = "⫹⫺ PenginTidur-Bot";
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`;
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`;
 global.titlebot = "𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By SadZetsun ";
-global.author = "┄┄┄┅┅❑ Nahida-Md ❑┅┅┄┄┄";
-global.packname = "Nahida-Md";
+global.author = "┄┄┄┅┅❑ PenginTidur-Md ❑┅┅┄┄┄";
+global.packname = "PenginTidur-Md";
 
 /*Fake*/
 global.fsizedoc = "1".repeat(10);
